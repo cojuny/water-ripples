@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WaterRipples",
+            "request": "launch",
+            "mainClass": "WaterRipples",
+            "projectName": "watter_ripples"
+        }
+    ]
+}
